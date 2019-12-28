@@ -29,7 +29,11 @@
                 {{/if}}
             </div>
             {{#unless @labs.members}}
-                <a class="rss-button" href="{{@site.url}}/rss/" title="RSS" target="_blank" rel="noopener">RSS {{> "icons/rss"}}</a>
+                <ul class="nav">
+                    <li>
+                        <a class="rss-button" href="{{@site.url}}/rss/" title="RSS" target="_blank" rel="noopener">RSS {{> "icons/rss"}}</a>
+                    </li>
+                </ul>
             {{/unless}}
         {{/if}}
 
