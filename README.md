@@ -1,3 +1,9 @@
+# CaspeRss
+
+Fork of [Casper](https://github.com/TryGhost/Casper) with the following changes:
+
+* RSS link is now a direct link instead of a feedly subscribe link
+
 # Casper
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper! If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
