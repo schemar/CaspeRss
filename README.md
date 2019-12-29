@@ -3,6 +3,7 @@
 Fork of [Casper](https://github.com/TryGhost/Casper) with the following changes:
 
 * RSS link is now a direct link instead of a feedly subscribe link
+* Authors' biographies now support HTML (e.g. `<a>` links)
 
 # Casper
 
